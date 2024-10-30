@@ -1,0 +1,52 @@
+form{
+    border: solid 1px;
+    width: 450px;
+    padding-left: 10px;
+    
+    padding-top: 30px;
+}
+body{
+    background-image: url(body3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1420px 650px;
+}
+label{
+    color: whitesmoke;
+    font-size: 23px;
+    font-weight: bold;
+}
+h1{
+    color: wheat;
+    font-size: 40px;
+}
+input{
+    height: 30px;
+    width: 200px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-color: gold;
+    border-bottom-width: 5px;
+    color: chocolate;
+    font-size: 25px;
+}
+textarea{
+    width: 300px;
+    height: 90px;
+}
+button{
+       height: 50px;
+       width: 150px;
+       background-color: brown;
+       color: aquamarine;
+       font-size: 20px;
+       font-weight: 10px;
+       border: 180px;
+}
+#avatar{
+       border-radius: 50%;
+       position: relative;
+       left: 100px;
+       top: 90px;
+}

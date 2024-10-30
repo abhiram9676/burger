@@ -1,0 +1,54 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+ .out1{
+      border: solid 1px;
+      height: 100px;
+      display: flex;
+      background-color: rgb(123, 158, 70);
+
+ }
+ #in1,#in2{
+         border: solid 1px;
+         height: 100px;
+ }
+ #in1{
+    width: 550px;
+    margin: ;
+ }
+ ul{
+    list-style: none;
+ }
+ ul li{
+     border: solid 1px;
+     height: 100px;
+     width: 120px;
+     float: left;
+     text-align: center;
+     line-height: 120px;
+ }
+ ul li a{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+ }
+ ul li a:hover{
+        color: crimson;
+        font-size: 29px;
+ }
+ #out2{
+    border: solid 1px;
+    height: 700px;
+    background-image: url(burg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1260px 700px
+ }
+ #welcome{
+    color: white;
+    font-size: 60px;
+    margin-left: 90px;
+    margin-top: 100px;
+    text-shadow: 3px 3px 5px white;
+ }
